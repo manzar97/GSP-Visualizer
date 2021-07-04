@@ -7,5 +7,6 @@ So far there are 3 segemets
 - Prime Numbers
 - Sorting Algorithms
 
+https://manzar97.github.io/GSP-Visualizer/#/
 
 
