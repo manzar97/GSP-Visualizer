@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/GSP-Visualizer/static/css/main.c91f18c5.chunk.css",
+    "main.js": "/GSP-Visualizer/static/js/main.0b7264b2.chunk.js",
+    "main.js.map": "/GSP-Visualizer/static/js/main.0b7264b2.chunk.js.map",
+    "runtime-main.js": "/GSP-Visualizer/static/js/runtime-main.1debd33a.js",
+    "runtime-main.js.map": "/GSP-Visualizer/static/js/runtime-main.1debd33a.js.map",
+    "static/css/2.e1047b85.chunk.css": "/GSP-Visualizer/static/css/2.e1047b85.chunk.css",
+    "static/js/2.34c1c943.chunk.js": "/GSP-Visualizer/static/js/2.34c1c943.chunk.js",
+    "static/js/2.34c1c943.chunk.js.map": "/GSP-Visualizer/static/js/2.34c1c943.chunk.js.map",
+    "static/js/3.9a1c4c14.chunk.js": "/GSP-Visualizer/static/js/3.9a1c4c14.chunk.js",
+    "static/js/3.9a1c4c14.chunk.js.map": "/GSP-Visualizer/static/js/3.9a1c4c14.chunk.js.map",
+    "index.html": "/GSP-Visualizer/index.html",
+    "static/css/2.e1047b85.chunk.css.map": "/GSP-Visualizer/static/css/2.e1047b85.chunk.css.map",
+    "static/css/main.c91f18c5.chunk.css.map": "/GSP-Visualizer/static/css/main.c91f18c5.chunk.css.map",
+    "static/js/2.34c1c943.chunk.js.LICENSE.txt": "/GSP-Visualizer/static/js/2.34c1c943.chunk.js.LICENSE.txt",
+    "static/media/graph.bae0b108.png": "/GSP-Visualizer/static/media/graph.bae0b108.png",
+    "static/media/primes.5436bf75.jpg": "/GSP-Visualizer/static/media/primes.5436bf75.jpg",
+    "static/media/index.css": "/GSP-Visualizer/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/GSP-Visualizer/static/media/sort.117e08fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1debd33a.js",
+    "static/css/2.e1047b85.chunk.css",
+    "static/js/2.34c1c943.chunk.js",
+    "static/css/main.c91f18c5.chunk.css",
+    "static/js/main.0b7264b2.chunk.js"
+  ]
+}
